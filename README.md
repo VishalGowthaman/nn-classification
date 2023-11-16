@@ -51,10 +51,6 @@ You are required to help the manager to predict the right group of the new custo
  Using the DL model predict for some random inputs
 
 ## PROGRAM
-```
-Developed By: Vishal Gowthaman K R
-Reg no : 212221230123
-```
 ```py
 import pandas as pd 
 import numpy as np
